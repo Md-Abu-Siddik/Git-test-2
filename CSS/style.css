@@ -1,0 +1,19 @@
+.firstdiv {
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 50%;
+    background-color: blue;
+    border-radius: 20px;
+    
+}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: aliceblue;
+}
